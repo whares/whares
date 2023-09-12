@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Leandro 👋
 
 
--📚 Cursando Analise e Desenvolvimento de Sistema
+- 📚 Cursando Analise e Desenvolvimento de Sistema
 
 
 
