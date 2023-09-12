@@ -8,7 +8,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_schmitz5/) [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-leandro-641453162/)
 
-![Rafa GitHub stats](https://readme-stats.clckblog.space/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Rafa GitHub stats](https://readme-stats.clckblog.space/api?username=whares&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whares&layout=compact)
 
 ## Tecnologias  que eu uso no meu dia
 
